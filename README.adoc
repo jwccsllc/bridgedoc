@@ -1,0 +1,10 @@
+= Duplicate Bridge Documentation
+Bill Campbell <jwccsllc@me.com>
+Version 1.00, 20 Feb 2022
+
+== Introduction
+
+This is the primary repository for duplicate bridge documentation
+to be hosted at http://bridge.celestial.com which will be
+produced using asciidoctor and Antora.
+
