@@ -1,1 +1,1 @@
-* index.adoc
+* href:index.adoc
